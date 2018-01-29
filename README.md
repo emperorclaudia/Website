@@ -1,4 +1,4 @@
-# Website
+# AWESOME WEBSITE
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +7,6 @@
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<h1>Learn all about me!</h1>
+	<h1>Learn all about CLAUDIA BECAUSE I AM AWESOME</h1>
 </body>
 </html>
