@@ -2,14 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Ollie Bike Sharing</title>
+  <title> Ollie Bike Sharing </title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
   <div class="container">
     
-    <div class="nav">
+    
+    
+  <div class="nav">
   <h2> Ollie  </h2>
     <ul>
       <li> Sign Up </li>
@@ -17,7 +19,6 @@
       <li>Reserve a Bike </li>
       <li>About Us </li>
     </ul>
-
     </div>
   
   
